@@ -29,7 +29,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  position: absolute;
+  position: relative;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
@@ -171,6 +171,4 @@ body {
   opacity: 0.5;
   margin-left: 10px;
 }
-
-
 /*# sourceMappingURL=styles.css.map */
